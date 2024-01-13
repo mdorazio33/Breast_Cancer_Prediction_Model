@@ -4,7 +4,7 @@ For this project, I decided to create a prediction model using Logistic Regressi
 
 Due to breast cancer being the second leading cause of cancer death in women, I wanted to create a model that could predict diagnoses in order to help both patients and healthcare professionals alike assess the probability of a tumor being categorized as Malignant or Benign based on accumulating factors. Hopefully, models like this may help healthcare professionals better diagnose cancerous and non-cancerous tumors early on in their development.
 
-The libraries I used throughout this project mainly consist of Matplotlib, Seaborn, Scikit-learn, and MLxtend. Be sure to have them downloaded ahead of time if you seek to recreate this project in any form.
+The libraries I used throughout this project mainly consist of Matplotlib, Seaborn, Scikit-learn, and MLxtend. Be sure to have them installed ahead of time if you seek to recreate this project in any form.
 
 Table of Contents:
 1) BreastCancer_LogisticRegression.ipynb - The IPython Notebook documenting the procedure I used to train and develop Logistic Regression models for Breast Cancer classification/prediction.
